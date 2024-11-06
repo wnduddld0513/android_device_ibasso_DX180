@@ -1,8 +1,2 @@
-# android_device_ibasso_dx180
-
-
-Copyright (C) 2024 The LineageOS Project
-SPDX-License-Identifier: Apache-2.0
-
-
-(Created with the aospdtgen, with files extracted from an OTA zip file.)
+# Device Tree for the iBasso DX180
+The iBasso DX180 is a mid-range DAP(Digital Audio Player) from iBasso. It was released in 2024.
