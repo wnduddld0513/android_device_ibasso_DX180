@@ -1,2 +1,9 @@
 # android_device_ibasso_DX180
  
+#
+# Copyright (C) 2023 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+Created with the aospdtgen, with files extracted from an OTA zip file.
